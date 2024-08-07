@@ -6,19 +6,25 @@ body {
     border-radius: 100%;
     width: 50px;
     padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-top: 5px;
+    margin-left: 15px;
 }
 
 .school-logo-word {
     text-align: center;
     text-decoration: none;
     position: absolute;
-    margin-top: 32px;
+    margin-top: 16px;
     font-size: 30px;
     color: #D0AE6C;
     font-weight: 700;
     text-decoration-style: solid;
     font-family: NTR;
+    margin-left: 10px;
 }
 
 .second-nav ul li {
@@ -58,7 +64,6 @@ hr {
 }
 
 .container-1 {
-    padding-left: 10px;
     padding-right: 30px;
 }
 
