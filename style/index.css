@@ -10,6 +10,7 @@ body {
 }
 
 .school-logo-word {
+    text-align: center;
     text-decoration: none;
     position: absolute;
     margin-top: 32px;
@@ -18,7 +19,6 @@ body {
     font-weight: 700;
     text-decoration-style: solid;
     font-family: NTR;
-    margin-right: 20px;
 }
 
 .second-nav ul li {
