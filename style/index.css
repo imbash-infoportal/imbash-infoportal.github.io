@@ -13,6 +13,10 @@ body {
     margin-top: 5px;
 }
 
+.builder {
+    color: rgb(204, 214, 246);
+}
+
 .school-logo-word {
     text-align: center;
     text-decoration: none;
@@ -85,4 +89,8 @@ footer {
     color: rgb(204, 214, 246);
     font-size: 15px;
     font-family: NTR, sans-serif;
+}
+
+footer a {
+    text-decoration-color: rgb(204, 214, 246);
 }
